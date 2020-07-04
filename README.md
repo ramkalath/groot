@@ -1,3 +1,3 @@
 # groot
-![test](misc/groot.jpg)
+![test](groot.jpg)
 My attempt of a game engine
