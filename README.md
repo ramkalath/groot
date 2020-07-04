@@ -1,2 +1,3 @@
 # groot
-attempted version of a game engine
+![](./misc/Groot.png "Groot")
+My attempt of a game engine
