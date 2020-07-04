@@ -1,3 +1,3 @@
 # groot
-![test](groot.jpg =100x100)
+![test](groot.jpg)
 My attempt of a game engine
