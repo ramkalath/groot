@@ -1,0 +1,3 @@
+/home/ram/workarea/groot/build/CMakeFiles/rebuild_cache.dir
+/home/ram/workarea/groot/build/CMakeFiles/groot.dir
+/home/ram/workarea/groot/build/CMakeFiles/edit_cache.dir

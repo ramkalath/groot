@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/groot.dir/src/main.cpp.o  -o ../bin/groot 
