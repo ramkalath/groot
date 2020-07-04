@@ -17,8 +17,8 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
 target_include_directories(${project_name} PUBLIC ./include PUBLIC /usr/include PUBLIC /usr/local/include) # you can keep adding more if you want
 
 #here add all the libraries that you included
-#target_link_libraries(${project_name} glfw3 GLEW GL GLU SOIL dl Xinerama Xrandr Xi Xcursor X11 Xxf86vm pthread assimp) # this is and example
-target_link_libraries(${project_name} ) # (TODO: add the required libraries here)
+target_link_libraries(${project_name} SDL2 GLEW GL GLU SOIL dl Xinerama Xrandr Xi Xcursor X11 Xxf86vm pthread assimp) # this is and example
+#target_link_libraries(${project_name} ) # (TODO: add the required libraries here)
 
 # Required for YCM
 IF(EXISTS "${CMAKE_CURRENT_BINARY_DIR}/compile_commands.json")

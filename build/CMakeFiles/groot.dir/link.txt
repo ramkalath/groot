@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/groot.dir/src/main.cpp.o  -o ../bin/groot 
+/usr/bin/c++  -g   CMakeFiles/groot.dir/src/main.cpp.o  -o ../bin/groot  -lSDL2 -lGLEW -lGL -lGLU -lSOIL -ldl -lXinerama -lXrandr -lXi -lXcursor -lX11 -lXxf86vm -lpthread -lassimp 
