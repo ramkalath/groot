@@ -6,9 +6,17 @@
 
 #IncludeRegexTransform: 
 
+/home/ram/workarea/groot/include/gamesettings.h
+chrono
+-
+
 /home/ram/workarea/groot/src/main.cpp
 iostream
 -
 SDL2/SDL.h
 -
+chrono
+-
+../include/gamesettings.h
+/home/ram/workarea/groot/include/gamesettings.h
 
